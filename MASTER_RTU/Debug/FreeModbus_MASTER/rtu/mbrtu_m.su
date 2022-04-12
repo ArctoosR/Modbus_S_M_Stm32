@@ -1,0 +1,14 @@
+mbrtu_m.c:89:1:eMBMasterRTUInit	32	static
+mbrtu_m.c:133:1:eMBMasterRTUStart	8	static
+mbrtu_m.c:149:1:eMBMasterRTUStop	8	static
+mbrtu_m.c:158:1:eMBMasterRTUReceive	32	static
+mbrtu_m.c:192:1:eMBMasterRTUSend	24	static
+mbrtu_m.c:233:1:xMBMasterRTUReceiveFSM	16	static
+mbrtu_m.c:300:1:xMBMasterRTUTransmitFSM	16	static
+mbrtu_m.c:356:1:xMBMasterRTUTimerExpired	16	static
+mbrtu_m.c:417:6:vMBMasterGetRTUSndBuf	16	static
+mbrtu_m.c:423:6:vMBMasterGetPDUSndBuf	16	static
+mbrtu_m.c:429:6:vMBMasterSetPDUSndLength	16	static
+mbrtu_m.c:435:8:usMBMasterGetPDUSndLength	4	static
+mbrtu_m.c:441:6:vMBMasterSetCurTimerMode	16	static
+mbrtu_m.c:447:6:xMBMasterRequestIsBroadcast	4	static

@@ -1,0 +1,8 @@
+portserial.c:17:6:xMBPortSerialInit	24	static
+portserial.c:24:6:vMBPortSerialEnable	16	static
+portserial.c:47:6:vMBPortClose	8	static
+portserial.c:53:6:xMBPortSerialPutByte	16	static
+portserial.c:59:6:xMBPortSerialPutBytes	16	static
+portserial.c:65:6:xMBPortSerialGetByte	16	static
+portserial.c:71:6:HAL_UART_RxCpltCallback	16	static
+portserial.c:80:6:HAL_UART_TxCpltCallback	16	static

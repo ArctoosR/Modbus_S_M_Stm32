@@ -1,0 +1,4 @@
+user_mb_app_m.c:47:14:eMBMasterRegInputCB	32	static
+user_mb_app_m.c:97:14:eMBMasterRegHoldingCB	40	static
+user_mb_app_m.c:164:14:eMBMasterRegCoilsCB	56	static
+user_mb_app_m.c:246:14:eMBMasterRegDiscreteCB	48	static

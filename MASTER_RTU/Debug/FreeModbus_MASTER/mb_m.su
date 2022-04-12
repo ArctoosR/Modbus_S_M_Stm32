@@ -1,0 +1,12 @@
+mb_m.c:138:14:eMBMasterInit	32	static
+mb_m.c:195:1:eMBMasterClose	16	static
+mb_m.c:214:1:eMBMasterEnable	16	static
+mb_m.c:232:1:eMBMasterDisable	16	static
+mb_m.c:254:1:eMBMasterIsEstablished	4	static
+mb_m.c:268:1:eMBMasterPoll	40	static
+mb_m.c:393:6:xMBMasterGetCBRunInMasterMode	4	static
+mb_m.c:398:6:vMBMasterSetCBRunInMasterMode	16	static
+mb_m.c:403:7:ucMBMasterGetDestAddress	4	static
+mb_m.c:408:6:vMBMasterSetDestAddress	16	static
+mb_m.c:413:25:eMBMasterGetErrorType	4	static
+mb_m.c:418:6:vMBMasterSetErrorType	16	static

@@ -1,0 +1,6 @@
+porttimer_m.c:14:6:xMBMasterPortTimersInit	16	static
+porttimer_m.c:21:6:vMBMasterPortTimersT35Enable	8	static
+porttimer_m.c:28:6:vMBMasterPortTimersConvertDelayEnable	8	static
+porttimer_m.c:34:6:vMBMasterPortTimersRespondTimeoutEnable	8	static
+porttimer_m.c:40:6:vMBMasterPortTimersDisable	8	static
+porttimer_m.c:45:6:HAL_TIM_PeriodElapsedCallback	16	static
